@@ -1,7 +1,7 @@
 {
   "id": "learn-os",
   "name": "Ello",
-  "version": "0.2.7",
+  "version": "0.2.8",
   "minAppVersion": "1.5.0",
   "description": "A study dashboard: tests, readiness, mind maps and practice from your notes, Canvas, Anki and LearnHarness.",
   "author": "TK",
