@@ -17,7 +17,6 @@ In Canvas: **Account → Settings → + New Access Token**. Give it any name, co
 ### Optional
 
 - **Anki** with the **AnkiConnect** add-on (Tools → Add-ons → Get Add-ons → code `2055492159`) for flashcard and memory scores.
-- **LearnHarness** for tutoring sessions; Ello reads them for understanding scores.
 - **Google Calendar**: connect it in your Claude account (claude.ai → Settings → Connectors), then turn it on in Ello's settings for class times.
 
 ## Updates
